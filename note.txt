@@ -1,0 +1,4 @@
+***install otomatis tailwind dan daisyui
+npx svelte-add@latest tailwind --daisyui --forms --typography
+
+npm i
